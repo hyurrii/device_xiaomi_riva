@@ -372,4 +372,8 @@
     <string name="config_sysCPUTemp">/sys/class/thermal/thermal_zone0/temp</string>
     <string name="config_sysGPUFreq">/sys/kernel/gpu/gpu_clock</string>
     <string name="config_sysGPULoad">/sys/kernel/gpu/gpu_busy</string>
+
+    <!-- Add Xiaomiparts To ZenHub -->
+    <string name="config_device_parts_package_name" translatable="false">com.xiaomi.parts</string>
+    <string name="config_device_parts_package_activity" translatable="false">com.xiaomi.parts.DeviceSettingsActivity</string>
 </resources>
